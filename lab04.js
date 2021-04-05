@@ -60,7 +60,7 @@ document.write(team);
 
 
 
-*/
+
 
 
 var username = prompt('please anter the user name'); while(username !== 'mahmoud') 
@@ -109,6 +109,8 @@ printName()
 printConsolenumber(1, 10);
 printConsolenumber(50, 100);
 printConsolenumber(200, 300);
+
+*/
 
 
 
