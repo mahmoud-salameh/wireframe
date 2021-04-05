@@ -90,7 +90,7 @@ for (var i = 0; i < userInput; i++)
 
 
 function printName()
-{console.log('footbalClub);}
+{console.log('username');}
 
 
 
